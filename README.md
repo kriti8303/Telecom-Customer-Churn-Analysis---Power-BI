@@ -33,7 +33,8 @@ Churn Rate, sometimes known as attrition rate, is the rate at which customers st
 #### What is Customer Churn?
 Customer Churn refers to the natural business cycle of losing and acquiring customers. Every company — no matter the quality of its products or customer service experiences churn. In the context of businesses, customer churn can occur due to factors such as dissatisfaction with the product or service, competitive offerings, or changes in circumstances or preferences of the customer. Generally speaking, the less churn a company has, the more customers they keep.
 
-
+## Demo of the project : 
+https://app.powerbi.com/view?r=eyJrIjoiNDE4NDJhMDAtOThiMy00OWYwLWEyYTEtNDRhOTI4YmJiMzBhIiwidCI6ImJmYWE1OTMxLThkMDktNGMwNC04NWI4LTg4ZTg2MjgyMTA5YiJ9
 
 
 
