@@ -1,6 +1,9 @@
 # Telecom-Customer-Churn-Analysis---Power-BI
 ![Customer-Churn](https://github.com/kriti8303/Telecom-Customer-Churn-Analysis---Power-BI/assets/86372176/dcd1a38d-4f4d-429b-a138-7f5d87dbe04e)
 
+## Demo of the project : 
+https://app.powerbi.com/view?r=eyJrIjoiNDE4NDJhMDAtOThiMy00OWYwLWEyYTEtNDRhOTI4YmJiMzBhIiwidCI6ImJmYWE1OTMxLThkMDktNGMwNC04NWI4LTg4ZTg2MjgyMTA5YiJ9
+
 ## Contains Material Including : 
 1. Business Understanding
 2. Exploratory Data Analysis (EDA)
@@ -32,9 +35,6 @@ Churn Rate, sometimes known as attrition rate, is the rate at which customers st
 
 #### What is Customer Churn?
 Customer Churn refers to the natural business cycle of losing and acquiring customers. Every company — no matter the quality of its products or customer service experiences churn. In the context of businesses, customer churn can occur due to factors such as dissatisfaction with the product or service, competitive offerings, or changes in circumstances or preferences of the customer. Generally speaking, the less churn a company has, the more customers they keep.
-
-## Demo of the project : 
-https://app.powerbi.com/view?r=eyJrIjoiNDE4NDJhMDAtOThiMy00OWYwLWEyYTEtNDRhOTI4YmJiMzBhIiwidCI6ImJmYWE1OTMxLThkMDktNGMwNC04NWI4LTg4ZTg2MjgyMTA5YiJ9
 
 
 
