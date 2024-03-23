@@ -1,4 +1,4 @@
-# Telecom-Customer-Churn-Analysis---Power-BI
+# Telecom-Customer-Churn-Analysis-Power BI
 ![Customer-Churn](https://github.com/kriti8303/Telecom-Customer-Churn-Analysis---Power-BI/assets/86372176/dcd1a38d-4f4d-429b-a138-7f5d87dbe04e)
 
 ## Demo of the project : 
